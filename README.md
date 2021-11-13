@@ -1,4 +1,4 @@
-# Generator 
+# README Generator 
 ## Table of Contents
 * [Description](#description)
 * [Usage](#usage)
@@ -8,15 +8,16 @@
 * [License](#license)
 * [Questions](#questions)
 ## Description
-README Generator 
+The generation of READMEs
 ## Usage
-Generate READMes  
+to generate READMEs through node.js 
+ https://drive.google.com/file/d/1EwUxUggimRy5ThCnayekCl8zqCi3g0mW/view
 ## Installation
-Github 
+npm install inquirer
 ## Contribution 
-Github commits 
+node testing and github commits 
 ## Tests
-Run it
+node index 
 ## License
 This project is licensed under the MIT license
 ## Questions
